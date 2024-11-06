@@ -396,4 +396,4 @@ In the dialog, type the project ID, and then click **Shut down** to delete the p
 
 ## What's next
 
-Please follow McKinsey Digital in Medium - https://medium.com/@mckinseydigital
+
