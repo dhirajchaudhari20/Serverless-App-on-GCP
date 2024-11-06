@@ -396,4 +396,5 @@ In the dialog, type the project ID, and then click **Shut down** to delete the p
 
 ## What's next
 
+If you have questions or would like more guidance on related topics, feel free to connect on [LinkedIn](https://www.linkedin.com/in/dhirajchaudhari20/).
 
